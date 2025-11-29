@@ -1,0 +1,439 @@
+chain_key,store_key,city,province,category,recipe,product_key,size,crust,price,date_key,month,year
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.bacon--pepperoni-2X,PH_ph_pizza_bacon_pepperoni_2x_12_medi_12_hc,"12""",Handcrafted,21.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.bacon--pepperoni-2X,PH_ph_pizza_bacon_pepperoni_2x_12_medi_12_pan,"12""",Pan,21.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.bacon--pepperoni-2X,PH_ph_pizza_bacon_pepperoni_2x_12_medi_12_stf,"12""",Stuffed Crust,24.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.bacon--pepperoni-2X,PH_ph_pizza_bacon_pepperoni_2x_12_medi_12_thinnc,"12""",Thin-N-Crispy,21.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.bacon--pepperoni-2X,PH_ph_pizza_bacon_pepperoni_2x_14_larg_14_hc,"14""",Handcrafted,25.99,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.bacon--pepperoni-2X,PH_ph_pizza_bacon_pepperoni_2x_14_larg_14_pan,"14""",Pan,25.99,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.bacon--pepperoni-2X,PH_ph_pizza_bacon_pepperoni_2x_14_larg_14_stf,"14""",Stuffed Crust,29.99,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.bacon--pepperoni-2X,PH_ph_pizza_bacon_pepperoni_2x_14_larg_14_thinnc,"14""",Thin-N-Crispy,25.99,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.bacon--pepperoni-2X,PH_ph_pizza_bacon_pepperoni_2x_6_perso_p_pan,Personal,Pan,6.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.bacon--pepperoni-2X,PH_ph_pizza_bacon_pepperoni_2x_9_small_9_gluten,"9""",Gluten-Free,14.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.bacon--pepperoni-2X,PH_ph_pizza_bacon_pepperoni_2x_9_small_9_pan,"9""",Pan,13.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.bacon--pineapple-2J,PH_ph_pizza_bacon_pineapple_2j_12_medi_12_hc,"12""",Handcrafted,21.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.bacon--pineapple-2J,PH_ph_pizza_bacon_pineapple_2j_12_medi_12_pan,"12""",Pan,21.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.bacon--pineapple-2J,PH_ph_pizza_bacon_pineapple_2j_12_medi_12_stf,"12""",Stuffed Crust,24.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.bacon--pineapple-2J,PH_ph_pizza_bacon_pineapple_2j_12_medi_12_thinnc,"12""",Thin-N-Crispy,21.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.bacon--pineapple-2J,PH_ph_pizza_bacon_pineapple_2j_14_larg_14_hc,"14""",Handcrafted,25.99,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.bacon--pineapple-2J,PH_ph_pizza_bacon_pineapple_2j_14_larg_14_pan,"14""",Pan,25.99,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.bacon--pineapple-2J,PH_ph_pizza_bacon_pineapple_2j_14_larg_14_stf,"14""",Stuffed Crust,29.99,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.bacon--pineapple-2J,PH_ph_pizza_bacon_pineapple_2j_14_larg_14_thinnc,"14""",Thin-N-Crispy,25.99,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.bacon--pineapple-2J,PH_ph_pizza_bacon_pineapple_2j_6_perso_p_pan,Personal,Pan,6.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.bacon--pineapple-2J,PH_ph_pizza_bacon_pineapple_2j_9_small_9_gluten,"9""",Gluten-Free,14.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.bacon--pineapple-2J,PH_ph_pizza_bacon_pineapple_2j_9_small_9_pan,"9""",Pan,13.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.BBQ-chicken-2R,PH_ph_pizza_bbq_chicken_2r_12_medium_2_12_hc,"12""",Handcrafted,23.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.BBQ-chicken-2R,PH_ph_pizza_bbq_chicken_2r_12_medium_2_12_pan,"12""",Pan,23.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.BBQ-chicken-2R,PH_ph_pizza_bbq_chicken_2r_12_medium_2_12_stf,"12""",Stuffed Crust,26.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.BBQ-chicken-2R,PH_ph_pizza_bbq_chicken_2r_12_medium_2_12_thinnc,"12""",Thin-N-Crispy,23.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.BBQ-chicken-2R,PH_ph_pizza_bbq_chicken_2r_14_large_3__14_hc,"14""",Handcrafted,27.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.BBQ-chicken-2R,PH_ph_pizza_bbq_chicken_2r_14_large_3__14_pan,"14""",Pan,27.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.BBQ-chicken-2R,PH_ph_pizza_bbq_chicken_2r_14_large_3__14_stf,"14""",Stuffed Crust,31.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.BBQ-chicken-2R,PH_ph_pizza_bbq_chicken_2r_14_large_3__14_thinnc,"14""",Thin-N-Crispy,27.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.BBQ-chicken-2R,PH_ph_pizza_bbq_chicken_2r_6_personal__p_pan,Personal,Pan,6.99,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.BBQ-chicken-2R,PH_ph_pizza_bbq_chicken_2r_9_small_1_g_9_gluten,"9""",Gluten-Free,14.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.BBQ-chicken-2R,PH_ph_pizza_bbq_chicken_2r_9_small_1_p_9_pan,"9""",Pan,13.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.BBQ-chicken-2R,PH_ph_pizza_bbq_chicken_2r_panalicious_m_panorm,Medium,Panormous,15.99,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.BBQ-chicken-2R,PH_ph_pizza_bbq_chicken_2r_xl_panormou_xl_panorm,X-Large,Panormous,28.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.canadian-28,PH_ph_pizza_canadian_28_12_medium_2_ha_12_hc,"12""",Handcrafted,23.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.canadian-28,PH_ph_pizza_canadian_28_12_medium_2_pa_12_pan,"12""",Pan,23.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.canadian-28,PH_ph_pizza_canadian_28_12_medium_2_st_12_stf,"12""",Stuffed Crust,26.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.canadian-28,PH_ph_pizza_canadian_28_12_medium_2_th_12_thinnc,"12""",Thin-N-Crispy,23.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.canadian-28,PH_ph_pizza_canadian_28_14_large_3_han_14_hc,"14""",Handcrafted,27.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.canadian-28,PH_ph_pizza_canadian_28_14_large_3_pan_14_pan,"14""",Pan,27.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.canadian-28,PH_ph_pizza_canadian_28_14_large_3_stu_14_stf,"14""",Stuffed Crust,31.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.canadian-28,PH_ph_pizza_canadian_28_14_large_3_thi_14_thinnc,"14""",Thin-N-Crispy,27.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.canadian-28,PH_ph_pizza_canadian_28_6_personal_4_p_p_pan,Personal,Pan,5.99,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.canadian-28,PH_ph_pizza_canadian_28_9_small_1_glut_9_gluten,"9""",Gluten-Free,14.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.canadian-28,PH_ph_pizza_canadian_28_9_small_1_pan_9_pan,"9""",Pan,13.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.canadian-28,PH_ph_pizza_canadian_28_panalicious_2__m_panorm,Medium,Panormous,14.99,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.canadian-28,PH_ph_pizza_canadian_28_xl_panormous_5_xl_panorm,X-Large,Panormous,28.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.cheese-lovers-25,PH_ph_pizza_cheese_lovers_25_12_medium_12_hc,"12""",Handcrafted,23.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.cheese-lovers-25,PH_ph_pizza_cheese_lovers_25_12_medium_12_pan,"12""",Pan,23.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.cheese-lovers-25,PH_ph_pizza_cheese_lovers_25_12_medium_12_stf,"12""",Stuffed Crust,26.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.cheese-lovers-25,PH_ph_pizza_cheese_lovers_25_12_medium_12_thinnc,"12""",Thin-N-Crispy,23.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.cheese-lovers-25,PH_ph_pizza_cheese_lovers_25_14_large__14_hc,"14""",Handcrafted,27.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.cheese-lovers-25,PH_ph_pizza_cheese_lovers_25_14_large__14_pan,"14""",Pan,27.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.cheese-lovers-25,PH_ph_pizza_cheese_lovers_25_14_large__14_stf,"14""",Stuffed Crust,31.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.cheese-lovers-25,PH_ph_pizza_cheese_lovers_25_14_large__14_thinnc,"14""",Thin-N-Crispy,27.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.cheese-lovers-25,PH_ph_pizza_cheese_lovers_25_6_persona_p_pan,Personal,Pan,5.99,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.cheese-lovers-25,PH_ph_pizza_cheese_lovers_25_9_small_1_9_gluten,"9""",Gluten-Free,14.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.cheese-lovers-25,PH_ph_pizza_cheese_lovers_25_9_small_1_9_pan,"9""",Pan,13.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.cheese-lovers-25,PH_ph_pizza_cheese_lovers_25_panalicio_m_panorm,Medium,Panormous,14.99,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.cheese-lovers-25,PH_ph_pizza_cheese_lovers_25_xl_panorm_xl_panorm,X-Large,Panormous,28.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.chicken-bacon-alfredo-melt-22,PH_ph_pizza_chicken_bacon_alfredo_melt_m_defaul,Medium,Default-Crust,9.99,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.chicken-caesar-2C,PH_ph_pizza_chicken_caesar_2c_12_mediu_12_hc,"12""",Handcrafted,23.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.chicken-caesar-2C,PH_ph_pizza_chicken_caesar_2c_12_mediu_12_pan,"12""",Pan,23.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.chicken-caesar-2C,PH_ph_pizza_chicken_caesar_2c_12_mediu_12_stf,"12""",Stuffed Crust,26.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.chicken-caesar-2C,PH_ph_pizza_chicken_caesar_2c_12_mediu_12_thinnc,"12""",Thin-N-Crispy,23.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.chicken-caesar-2C,PH_ph_pizza_chicken_caesar_2c_14_large_14_hc,"14""",Handcrafted,27.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.chicken-caesar-2C,PH_ph_pizza_chicken_caesar_2c_14_large_14_pan,"14""",Pan,27.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.chicken-caesar-2C,PH_ph_pizza_chicken_caesar_2c_14_large_14_stf,"14""",Stuffed Crust,31.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.chicken-caesar-2C,PH_ph_pizza_chicken_caesar_2c_14_large_14_thinnc,"14""",Thin-N-Crispy,27.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.chicken-caesar-2C,PH_ph_pizza_chicken_caesar_2c_6_person_p_pan,Personal,Pan,6.99,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.chicken-caesar-2C,PH_ph_pizza_chicken_caesar_2c_9_small__9_gluten,"9""",Gluten-Free,14.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.chicken-caesar-2C,PH_ph_pizza_chicken_caesar_2c_9_small__9_pan,"9""",Pan,13.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.chicken-caesar-2C,PH_ph_pizza_chicken_caesar_2c_panalici_m_panorm,Medium,Panormous,15.99,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.chicken-caesar-2C,PH_ph_pizza_chicken_caesar_2c_xl_panor_xl_panorm,X-Large,Panormous,28.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.chicken-lovers-26,PH_ph_pizza_chicken_lovers_26_12_mediu_12_hc,"12""",Handcrafted,23.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.chicken-lovers-26,PH_ph_pizza_chicken_lovers_26_12_mediu_12_pan,"12""",Pan,23.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.chicken-lovers-26,PH_ph_pizza_chicken_lovers_26_12_mediu_12_stf,"12""",Stuffed Crust,26.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.chicken-lovers-26,PH_ph_pizza_chicken_lovers_26_12_mediu_12_thinnc,"12""",Thin-N-Crispy,23.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.chicken-lovers-26,PH_ph_pizza_chicken_lovers_26_14_large_14_hc,"14""",Handcrafted,27.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.chicken-lovers-26,PH_ph_pizza_chicken_lovers_26_14_large_14_pan,"14""",Pan,27.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.chicken-lovers-26,PH_ph_pizza_chicken_lovers_26_14_large_14_stf,"14""",Stuffed Crust,31.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.chicken-lovers-26,PH_ph_pizza_chicken_lovers_26_14_large_14_thinnc,"14""",Thin-N-Crispy,27.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.chicken-lovers-26,PH_ph_pizza_chicken_lovers_26_6_person_p_pan,Personal,Pan,6.99,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.chicken-lovers-26,PH_ph_pizza_chicken_lovers_26_9_small__9_gluten,"9""",Gluten-Free,14.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.chicken-lovers-26,PH_ph_pizza_chicken_lovers_26_9_small__9_pan,"9""",Pan,13.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.chicken-lovers-26,PH_ph_pizza_chicken_lovers_26_panalici_m_panorm,Medium,Panormous,15.99,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.chicken-lovers-26,PH_ph_pizza_chicken_lovers_26_xl_panor_xl_panorm,X-Large,Panormous,28.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.classic-pepperoni-2P,PH_ph_pizza_classic_pepperoni_2p_12_me_12_hc,"12""",Handcrafted,16.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.classic-pepperoni-2P,PH_ph_pizza_classic_pepperoni_2p_12_me_12_pan,"12""",Pan,16.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.classic-pepperoni-2P,PH_ph_pizza_classic_pepperoni_2p_12_me_12_stf,"12""",Stuffed Crust,19.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.classic-pepperoni-2P,PH_ph_pizza_classic_pepperoni_2p_12_me_12_thinnc,"12""",Thin-N-Crispy,16.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.classic-pepperoni-2P,PH_ph_pizza_classic_pepperoni_2p_14_la_14_hc,"14""",Handcrafted,19.99,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.classic-pepperoni-2P,PH_ph_pizza_classic_pepperoni_2p_14_la_14_pan,"14""",Pan,19.99,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.classic-pepperoni-2P,PH_ph_pizza_classic_pepperoni_2p_14_la_14_stf,"14""",Stuffed Crust,23.99,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.classic-pepperoni-2P,PH_ph_pizza_classic_pepperoni_2p_14_la_14_thinnc,"14""",Thin-N-Crispy,19.99,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.create-your-own-2H,PH_ph_pizza_create_your_own_2h_12_medi_12_hc,"12""",Handcrafted,16.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.create-your-own-2H,PH_ph_pizza_create_your_own_2h_12_medi_12_pan,"12""",Pan,16.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.create-your-own-2H,PH_ph_pizza_create_your_own_2h_12_medi_12_stf,"12""",Stuffed Crust,19.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.create-your-own-2H,PH_ph_pizza_create_your_own_2h_12_medi_12_thinnc,"12""",Thin-N-Crispy,16.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.create-your-own-2H,PH_ph_pizza_create_your_own_2h_14_larg_14_hc,"14""",Handcrafted,19.99,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.create-your-own-2H,PH_ph_pizza_create_your_own_2h_14_larg_14_pan,"14""",Pan,19.99,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.create-your-own-2H,PH_ph_pizza_create_your_own_2h_14_larg_14_stf,"14""",Stuffed Crust,23.99,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.create-your-own-2H,PH_ph_pizza_create_your_own_2h_14_larg_14_thinnc,"14""",Thin-N-Crispy,19.99,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.create-your-own-2H,PH_ph_pizza_create_your_own_2h_6_perso_p_pan,Personal,Pan,4.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.create-your-own-2H,PH_ph_pizza_create_your_own_2h_9_small_9_gluten,"9""",Gluten-Free,10.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.create-your-own-2H,PH_ph_pizza_create_your_own_2h_9_small_9_pan,"9""",Pan,9.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.create-your-own-2Q,PH_ph_pizza_create_your_own_2q_12_medi_12_hc,"12""",Handcrafted,16.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.create-your-own-2Q,PH_ph_pizza_create_your_own_2q_12_medi_12_pan,"12""",Pan,16.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.create-your-own-2Q,PH_ph_pizza_create_your_own_2q_12_medi_12_stf,"12""",Stuffed Crust,19.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.create-your-own-2Q,PH_ph_pizza_create_your_own_2q_12_medi_12_thinnc,"12""",Thin-N-Crispy,16.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.create-your-own-2Q,PH_ph_pizza_create_your_own_2q_14_larg_14_hc,"14""",Handcrafted,19.99,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.create-your-own-2Q,PH_ph_pizza_create_your_own_2q_14_larg_14_pan,"14""",Pan,19.99,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.create-your-own-2Q,PH_ph_pizza_create_your_own_2q_14_larg_14_stf,"14""",Stuffed Crust,23.99,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.create-your-own-2Q,PH_ph_pizza_create_your_own_2q_14_larg_14_thinnc,"14""",Thin-N-Crispy,19.99,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.create-your-own-2Q,PH_ph_pizza_create_your_own_2q_9_small_9_gluten,"9""",Gluten-Free,10.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.create-your-own-2Q,PH_ph_pizza_create_your_own_2q_9_small_9_pan,"9""",Pan,9.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.create-your-own-2Y,PH_ph_pizza_create_your_own_2y_12_medi_12_hc,"12""",Handcrafted,16.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.create-your-own-2Y,PH_ph_pizza_create_your_own_2y_12_medi_12_pan,"12""",Pan,16.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.create-your-own-2Y,PH_ph_pizza_create_your_own_2y_12_medi_12_stf,"12""",Stuffed Crust,19.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.create-your-own-2Y,PH_ph_pizza_create_your_own_2y_12_medi_12_thinnc,"12""",Thin-N-Crispy,16.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.create-your-own-2Y,PH_ph_pizza_create_your_own_2y_14_larg_14_hc,"14""",Handcrafted,19.99,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.create-your-own-2Y,PH_ph_pizza_create_your_own_2y_14_larg_14_pan,"14""",Pan,19.99,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.create-your-own-2Y,PH_ph_pizza_create_your_own_2y_14_larg_14_stf,"14""",Stuffed Crust,23.99,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.create-your-own-2Y,PH_ph_pizza_create_your_own_2y_14_larg_14_thinnc,"14""",Thin-N-Crispy,19.99,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.create-your-own-2Y,PH_ph_pizza_create_your_own_2y_6_perso_p_pan,Personal,Pan,4.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.create-your-own-2Y,PH_ph_pizza_create_your_own_2y_9_small_9_gluten,"9""",Gluten-Free,10.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.create-your-own-2Y,PH_ph_pizza_create_your_own_2y_9_small_9_pan,"9""",Pan,9.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.create-your-own-2Y,PH_ph_pizza_create_your_own_2y_my_box__m_defaul,Medium,Default-Crust,11.99,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.create-your-own-2Y,PH_ph_pizza_create_your_own_2y_panalic_m_panorm,Medium,Panormous,8.99,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.create-your-own-2Y,PH_ph_pizza_create_your_own_2y_xl_pano_xl_panorm,X-Large,Panormous,19.99,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.cup-n-crisp-pepperoni--mushroom-2V,PH_ph_pizza_cup_n_crisp_pepperoni_mush_12_hc,"12""",Handcrafted,21.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.cup-n-crisp-pepperoni--mushroom-2V,PH_ph_pizza_cup_n_crisp_pepperoni_mush_12_pan,"12""",Pan,21.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.cup-n-crisp-pepperoni--mushroom-2V,PH_ph_pizza_cup_n_crisp_pepperoni_mush_12_stf,"12""",Stuffed Crust,24.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.cup-n-crisp-pepperoni--mushroom-2V,PH_ph_pizza_cup_n_crisp_pepperoni_mush_12_thinnc,"12""",Thin-N-Crispy,21.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.cup-n-crisp-pepperoni--mushroom-2V,PH_ph_pizza_cup_n_crisp_pepperoni_mush_14_hc,"14""",Handcrafted,25.99,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.cup-n-crisp-pepperoni--mushroom-2V,PH_ph_pizza_cup_n_crisp_pepperoni_mush_14_pan,"14""",Pan,25.99,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.cup-n-crisp-pepperoni--mushroom-2V,PH_ph_pizza_cup_n_crisp_pepperoni_mush_14_stf,"14""",Stuffed Crust,29.99,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.cup-n-crisp-pepperoni--mushroom-2V,PH_ph_pizza_cup_n_crisp_pepperoni_mush_14_thinnc,"14""",Thin-N-Crispy,25.99,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.cup-n-crisp-pepperoni--mushroom-2V,PH_ph_pizza_cup_n_crisp_pepperoni_mush_p_pan,Personal,Pan,6.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.cup-n-crisp-pepperoni--mushroom-2V,PH_ph_pizza_cup_n_crisp_pepperoni_mush_9_gluten,"9""",Gluten-Free,14.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.cup-n-crisp-pepperoni--mushroom-2V,PH_ph_pizza_cup_n_crisp_pepperoni_mush_9_pan,"9""",Pan,13.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.greek-pizza-2G,PH_ph_pizza_greek_pizza_2g_12_medium_2_12_hc,"12""",Handcrafted,23.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.greek-pizza-2G,PH_ph_pizza_greek_pizza_2g_12_medium_2_12_pan,"12""",Pan,23.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.greek-pizza-2G,PH_ph_pizza_greek_pizza_2g_12_medium_2_12_stf,"12""",Stuffed Crust,26.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.greek-pizza-2G,PH_ph_pizza_greek_pizza_2g_12_medium_2_12_thinnc,"12""",Thin-N-Crispy,23.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.greek-pizza-2G,PH_ph_pizza_greek_pizza_2g_14_large_3__14_hc,"14""",Handcrafted,27.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.greek-pizza-2G,PH_ph_pizza_greek_pizza_2g_14_large_3__14_pan,"14""",Pan,27.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.greek-pizza-2G,PH_ph_pizza_greek_pizza_2g_14_large_3__14_stf,"14""",Stuffed Crust,31.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.greek-pizza-2G,PH_ph_pizza_greek_pizza_2g_14_large_3__14_thinnc,"14""",Thin-N-Crispy,27.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.greek-pizza-2G,PH_ph_pizza_greek_pizza_2g_6_personal__p_pan,Personal,Pan,5.99,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.greek-pizza-2G,PH_ph_pizza_greek_pizza_2g_9_small_1_g_9_gluten,"9""",Gluten-Free,14.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.greek-pizza-2G,PH_ph_pizza_greek_pizza_2g_9_small_1_p_9_pan,"9""",Pan,13.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.greek-pizza-2G,PH_ph_pizza_greek_pizza_2g_panalicious_m_panorm,Medium,Panormous,14.99,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.greek-pizza-2G,PH_ph_pizza_greek_pizza_2g_xl_panormou_xl_panorm,X-Large,Panormous,28.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.green-pepper--mushroom-2N,PH_ph_pizza_green_pepper_mushroom_2n_1_12_hc,"12""",Handcrafted,21.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.green-pepper--mushroom-2N,PH_ph_pizza_green_pepper_mushroom_2n_1_12_pan,"12""",Pan,21.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.green-pepper--mushroom-2N,PH_ph_pizza_green_pepper_mushroom_2n_1_12_stf,"12""",Stuffed Crust,24.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.green-pepper--mushroom-2N,PH_ph_pizza_green_pepper_mushroom_2n_1_12_thinnc,"12""",Thin-N-Crispy,21.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.green-pepper--mushroom-2N,PH_ph_pizza_green_pepper_mushroom_2n_1_14_hc,"14""",Handcrafted,25.99,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.green-pepper--mushroom-2N,PH_ph_pizza_green_pepper_mushroom_2n_1_14_pan,"14""",Pan,25.99,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.green-pepper--mushroom-2N,PH_ph_pizza_green_pepper_mushroom_2n_1_14_stf,"14""",Stuffed Crust,29.99,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.green-pepper--mushroom-2N,PH_ph_pizza_green_pepper_mushroom_2n_1_14_thinnc,"14""",Thin-N-Crispy,25.99,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.green-pepper--mushroom-2N,PH_ph_pizza_green_pepper_mushroom_2n_6_p_pan,Personal,Pan,6.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.green-pepper--mushroom-2N,PH_ph_pizza_green_pepper_mushroom_2n_9_9_gluten,"9""",Gluten-Free,14.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.green-pepper--mushroom-2N,PH_ph_pizza_green_pepper_mushroom_2n_9_9_pan,"9""",Pan,13.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.grilled-chicken-arrabbiata-2K,PH_ph_pizza_grilled_chicken_arrabbiata_12_hc,"12""",Handcrafted,23.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.grilled-chicken-arrabbiata-2K,PH_ph_pizza_grilled_chicken_arrabbiata_12_pan,"12""",Pan,23.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.grilled-chicken-arrabbiata-2K,PH_ph_pizza_grilled_chicken_arrabbiata_12_stf,"12""",Stuffed Crust,26.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.grilled-chicken-arrabbiata-2K,PH_ph_pizza_grilled_chicken_arrabbiata_12_thinnc,"12""",Thin-N-Crispy,23.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.grilled-chicken-arrabbiata-2K,PH_ph_pizza_grilled_chicken_arrabbiata_14_hc,"14""",Handcrafted,27.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.grilled-chicken-arrabbiata-2K,PH_ph_pizza_grilled_chicken_arrabbiata_14_pan,"14""",Pan,27.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.grilled-chicken-arrabbiata-2K,PH_ph_pizza_grilled_chicken_arrabbiata_14_stf,"14""",Stuffed Crust,31.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.grilled-chicken-arrabbiata-2K,PH_ph_pizza_grilled_chicken_arrabbiata_14_thinnc,"14""",Thin-N-Crispy,27.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.grilled-chicken-arrabbiata-2K,PH_ph_pizza_grilled_chicken_arrabbiata_p_pan,Personal,Pan,6.99,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.grilled-chicken-arrabbiata-2K,PH_ph_pizza_grilled_chicken_arrabbiata_9_gluten,"9""",Gluten-Free,14.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.grilled-chicken-arrabbiata-2K,PH_ph_pizza_grilled_chicken_arrabbiata_9_pan,"9""",Pan,13.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.grilled-chicken-arrabbiata-2K,PH_ph_pizza_grilled_chicken_arrabbiata_m_panorm,Medium,Panormous,15.99,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.grilled-chicken-arrabbiata-2K,PH_ph_pizza_grilled_chicken_arrabbiata_xl_panorm,X-Large,Panormous,28.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.grilled-chicken-rustico-2L,PH_ph_pizza_grilled_chicken_rustico_2l_12_hc,"12""",Handcrafted,23.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.grilled-chicken-rustico-2L,PH_ph_pizza_grilled_chicken_rustico_2l_12_pan,"12""",Pan,23.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.grilled-chicken-rustico-2L,PH_ph_pizza_grilled_chicken_rustico_2l_12_stf,"12""",Stuffed Crust,26.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.grilled-chicken-rustico-2L,PH_ph_pizza_grilled_chicken_rustico_2l_12_thinnc,"12""",Thin-N-Crispy,23.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.grilled-chicken-rustico-2L,PH_ph_pizza_grilled_chicken_rustico_2l_14_hc,"14""",Handcrafted,27.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.grilled-chicken-rustico-2L,PH_ph_pizza_grilled_chicken_rustico_2l_14_pan,"14""",Pan,27.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.grilled-chicken-rustico-2L,PH_ph_pizza_grilled_chicken_rustico_2l_14_stf,"14""",Stuffed Crust,31.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.grilled-chicken-rustico-2L,PH_ph_pizza_grilled_chicken_rustico_2l_14_thinnc,"14""",Thin-N-Crispy,27.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.grilled-chicken-rustico-2L,PH_ph_pizza_grilled_chicken_rustico_2l_p_pan,Personal,Pan,6.99,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.grilled-chicken-rustico-2L,PH_ph_pizza_grilled_chicken_rustico_2l_9_gluten,"9""",Gluten-Free,14.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.grilled-chicken-rustico-2L,PH_ph_pizza_grilled_chicken_rustico_2l_9_pan,"9""",Pan,13.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.grilled-chicken-rustico-2L,PH_ph_pizza_grilled_chicken_rustico_2l_m_panorm,Medium,Panormous,15.99,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.grilled-chicken-rustico-2L,PH_ph_pizza_grilled_chicken_rustico_2l_xl_panorm,X-Large,Panormous,28.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.handcrafted-classic-pepperoni-2Z,PH_ph_pizza_handcrafted_classic_pepper_12_hc,"12""",Handcrafted,23.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.handcrafted-classic-pepperoni-2Z,PH_ph_pizza_handcrafted_classic_pepper_14_hc,"14""",Handcrafted,27.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.handcrafted-pepperoni-duo-2D,PH_ph_pizza_handcrafted_pepperoni_duo__12_hc,"12""",Handcrafted,23.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.handcrafted-pepperoni-duo-2D,PH_ph_pizza_handcrafted_pepperoni_duo__14_hc,"14""",Handcrafted,27.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.handcrafted-smoky-tri-cheese-blend-2T,PH_ph_pizza_handcrafted_smoky_tri_chee_12_hc,"12""",Handcrafted,23.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.handcrafted-smoky-tri-cheese-blend-2T,PH_ph_pizza_handcrafted_smoky_tri_chee_14_hc,"14""",Handcrafted,27.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.hawaiian-27,PH_ph_pizza_hawaiian_27_12_medium_2_ha_12_hc,"12""",Handcrafted,23.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.hawaiian-27,PH_ph_pizza_hawaiian_27_12_medium_2_pa_12_pan,"12""",Pan,23.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.hawaiian-27,PH_ph_pizza_hawaiian_27_12_medium_2_st_12_stf,"12""",Stuffed Crust,26.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.hawaiian-27,PH_ph_pizza_hawaiian_27_12_medium_2_th_12_thinnc,"12""",Thin-N-Crispy,23.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.hawaiian-27,PH_ph_pizza_hawaiian_27_14_large_3_han_14_hc,"14""",Handcrafted,27.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.hawaiian-27,PH_ph_pizza_hawaiian_27_14_large_3_pan_14_pan,"14""",Pan,27.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.hawaiian-27,PH_ph_pizza_hawaiian_27_14_large_3_stu_14_stf,"14""",Stuffed Crust,31.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.hawaiian-27,PH_ph_pizza_hawaiian_27_14_large_3_thi_14_thinnc,"14""",Thin-N-Crispy,27.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.hawaiian-27,PH_ph_pizza_hawaiian_27_6_personal_4_p_p_pan,Personal,Pan,5.99,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.hawaiian-27,PH_ph_pizza_hawaiian_27_9_small_1_glut_9_gluten,"9""",Gluten-Free,14.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.hawaiian-27,PH_ph_pizza_hawaiian_27_9_small_1_pan_9_pan,"9""",Pan,13.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.hawaiian-27,PH_ph_pizza_hawaiian_27_panalicious_2__m_panorm,Medium,Panormous,14.99,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.hawaiian-27,PH_ph_pizza_hawaiian_27_xl_panormous_5_xl_panorm,X-Large,Panormous,28.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.italian-classic-2I,PH_ph_pizza_italian_classic_2i_12_medi_12_hc,"12""",Handcrafted,23.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.italian-classic-2I,PH_ph_pizza_italian_classic_2i_12_medi_12_pan,"12""",Pan,23.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.italian-classic-2I,PH_ph_pizza_italian_classic_2i_12_medi_12_stf,"12""",Stuffed Crust,26.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.italian-classic-2I,PH_ph_pizza_italian_classic_2i_12_medi_12_thinnc,"12""",Thin-N-Crispy,23.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.italian-classic-2I,PH_ph_pizza_italian_classic_2i_14_larg_14_hc,"14""",Handcrafted,27.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.italian-classic-2I,PH_ph_pizza_italian_classic_2i_14_larg_14_pan,"14""",Pan,27.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.italian-classic-2I,PH_ph_pizza_italian_classic_2i_14_larg_14_stf,"14""",Stuffed Crust,31.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.italian-classic-2I,PH_ph_pizza_italian_classic_2i_14_larg_14_thinnc,"14""",Thin-N-Crispy,27.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.italian-classic-2I,PH_ph_pizza_italian_classic_2i_6_perso_p_pan,Personal,Pan,6.99,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.italian-classic-2I,PH_ph_pizza_italian_classic_2i_9_small_9_gluten,"9""",Gluten-Free,14.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.italian-classic-2I,PH_ph_pizza_italian_classic_2i_9_small_9_pan,"9""",Pan,13.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.italian-classic-2I,PH_ph_pizza_italian_classic_2i_panalic_m_panorm,Medium,Panormous,15.99,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.italian-classic-2I,PH_ph_pizza_italian_classic_2i_xl_pano_xl_panorm,X-Large,Panormous,28.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.margherita-2M,PH_ph_pizza_margherita_2m_12_medium_2__12_hc,"12""",Handcrafted,23.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.margherita-2M,PH_ph_pizza_margherita_2m_12_medium_2__12_pan,"12""",Pan,23.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.margherita-2M,PH_ph_pizza_margherita_2m_12_medium_2__12_stf,"12""",Stuffed Crust,26.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.margherita-2M,PH_ph_pizza_margherita_2m_12_medium_2__12_thinnc,"12""",Thin-N-Crispy,23.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.margherita-2M,PH_ph_pizza_margherita_2m_14_large_3_h_14_hc,"14""",Handcrafted,27.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.margherita-2M,PH_ph_pizza_margherita_2m_14_large_3_p_14_pan,"14""",Pan,27.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.margherita-2M,PH_ph_pizza_margherita_2m_14_large_3_s_14_stf,"14""",Stuffed Crust,31.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.margherita-2M,PH_ph_pizza_margherita_2m_14_large_3_t_14_thinnc,"14""",Thin-N-Crispy,27.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.margherita-2M,PH_ph_pizza_margherita_2m_6_personal_4_p_pan,Personal,Pan,5.99,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.margherita-2M,PH_ph_pizza_margherita_2m_9_small_1_gl_9_gluten,"9""",Gluten-Free,14.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.margherita-2M,PH_ph_pizza_margherita_2m_9_small_1_pa_9_pan,"9""",Pan,13.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.margherita-2M,PH_ph_pizza_margherita_2m_panalicious__m_panorm,Medium,Panormous,14.99,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.margherita-2M,PH_ph_pizza_margherita_2m_xl_panormous_xl_panorm,X-Large,Panormous,28.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.meat-lovers-22,PH_ph_pizza_meat_lovers_22_12_medium_2_12_hc,"12""",Handcrafted,23.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.meat-lovers-22,PH_ph_pizza_meat_lovers_22_12_medium_2_12_pan,"12""",Pan,23.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.meat-lovers-22,PH_ph_pizza_meat_lovers_22_12_medium_2_12_stf,"12""",Stuffed Crust,26.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.meat-lovers-22,PH_ph_pizza_meat_lovers_22_12_medium_2_12_thinnc,"12""",Thin-N-Crispy,23.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.meat-lovers-22,PH_ph_pizza_meat_lovers_22_14_large_3__14_hc,"14""",Handcrafted,27.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.meat-lovers-22,PH_ph_pizza_meat_lovers_22_14_large_3__14_pan,"14""",Pan,27.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.meat-lovers-22,PH_ph_pizza_meat_lovers_22_14_large_3__14_stf,"14""",Stuffed Crust,31.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.meat-lovers-22,PH_ph_pizza_meat_lovers_22_14_large_3__14_thinnc,"14""",Thin-N-Crispy,27.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.meat-lovers-22,PH_ph_pizza_meat_lovers_22_6_personal__p_pan,Personal,Pan,6.99,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.meat-lovers-22,PH_ph_pizza_meat_lovers_22_9_small_1_g_9_gluten,"9""",Gluten-Free,14.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.meat-lovers-22,PH_ph_pizza_meat_lovers_22_9_small_1_p_9_pan,"9""",Pan,13.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.meat-lovers-22,PH_ph_pizza_meat_lovers_22_panalicious_m_panorm,Medium,Panormous,15.99,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.meat-lovers-22,PH_ph_pizza_meat_lovers_22_xl_panormou_xl_panorm,X-Large,Panormous,28.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.meat-lovers-melt-21,PH_ph_pizza_meat_lovers_melt_21_melt_1_m_defaul,Medium,Default-Crust,9.99,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.mushroom-onion-alfredo-melt-23,PH_ph_pizza_mushroom_onion_alfredo_mel_m_defaul,Medium,Default-Crust,9.99,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.pepperoni-lovers-24,PH_ph_pizza_pepperoni_lovers_24_12_med_12_hc,"12""",Handcrafted,23.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.pepperoni-lovers-24,PH_ph_pizza_pepperoni_lovers_24_12_med_12_pan,"12""",Pan,23.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.pepperoni-lovers-24,PH_ph_pizza_pepperoni_lovers_24_12_med_12_stf,"12""",Stuffed Crust,26.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.pepperoni-lovers-24,PH_ph_pizza_pepperoni_lovers_24_12_med_12_thinnc,"12""",Thin-N-Crispy,23.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.pepperoni-lovers-24,PH_ph_pizza_pepperoni_lovers_24_14_lar_14_hc,"14""",Handcrafted,27.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.pepperoni-lovers-24,PH_ph_pizza_pepperoni_lovers_24_14_lar_14_pan,"14""",Pan,27.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.pepperoni-lovers-24,PH_ph_pizza_pepperoni_lovers_24_14_lar_14_stf,"14""",Stuffed Crust,31.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.pepperoni-lovers-24,PH_ph_pizza_pepperoni_lovers_24_14_lar_14_thinnc,"14""",Thin-N-Crispy,27.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.pepperoni-lovers-24,PH_ph_pizza_pepperoni_lovers_24_6_pers_p_pan,Personal,Pan,6.99,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.pepperoni-lovers-24,PH_ph_pizza_pepperoni_lovers_24_9_smal_9_gluten,"9""",Gluten-Free,14.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.pepperoni-lovers-24,PH_ph_pizza_pepperoni_lovers_24_9_smal_9_pan,"9""",Pan,13.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.pepperoni-lovers-24,PH_ph_pizza_pepperoni_lovers_24_panali_m_panorm,Medium,Panormous,15.99,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.pepperoni-lovers-24,PH_ph_pizza_pepperoni_lovers_24_xl_pan_xl_panorm,X-Large,Panormous,28.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.pepperoni-lovers-melt-20,PH_ph_pizza_pepperoni_lovers_melt_20_m_m_defaul,Medium,Default-Crust,9.99,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.pineapple-jalapeno-melt-24,PH_ph_pizza_pineapple_jalapeno_melt_24_m_defaul,Medium,Default-Crust,9.99,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.super-supreme-lovers-20,PH_ph_pizza_super_supreme_lovers_20_12_12_hc,"12""",Handcrafted,23.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.super-supreme-lovers-20,PH_ph_pizza_super_supreme_lovers_20_12_12_pan,"12""",Pan,23.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.super-supreme-lovers-20,PH_ph_pizza_super_supreme_lovers_20_12_12_stf,"12""",Stuffed Crust,26.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.super-supreme-lovers-20,PH_ph_pizza_super_supreme_lovers_20_12_12_thinnc,"12""",Thin-N-Crispy,23.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.super-supreme-lovers-20,PH_ph_pizza_super_supreme_lovers_20_14_14_hc,"14""",Handcrafted,27.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.super-supreme-lovers-20,PH_ph_pizza_super_supreme_lovers_20_14_14_pan,"14""",Pan,27.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.super-supreme-lovers-20,PH_ph_pizza_super_supreme_lovers_20_14_14_stf,"14""",Stuffed Crust,31.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.super-supreme-lovers-20,PH_ph_pizza_super_supreme_lovers_20_14_14_thinnc,"14""",Thin-N-Crispy,27.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.super-supreme-lovers-20,PH_ph_pizza_super_supreme_lovers_20_6__p_pan,Personal,Pan,6.99,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.super-supreme-lovers-20,PH_ph_pizza_super_supreme_lovers_20_9__9_gluten,"9""",Gluten-Free,14.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.super-supreme-lovers-20,PH_ph_pizza_super_supreme_lovers_20_9__9_pan,"9""",Pan,13.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.super-supreme-lovers-20,PH_ph_pizza_super_supreme_lovers_20_pa_m_panorm,Medium,Panormous,15.99,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.super-supreme-lovers-20,PH_ph_pizza_super_supreme_lovers_20_xl_xl_panorm,X-Large,Panormous,28.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.supreme-lovers-21,PH_ph_pizza_supreme_lovers_21_12_mediu_12_hc,"12""",Handcrafted,23.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.supreme-lovers-21,PH_ph_pizza_supreme_lovers_21_12_mediu_12_pan,"12""",Pan,23.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.supreme-lovers-21,PH_ph_pizza_supreme_lovers_21_12_mediu_12_stf,"12""",Stuffed Crust,26.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.supreme-lovers-21,PH_ph_pizza_supreme_lovers_21_12_mediu_12_thinnc,"12""",Thin-N-Crispy,23.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.supreme-lovers-21,PH_ph_pizza_supreme_lovers_21_14_large_14_hc,"14""",Handcrafted,27.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.supreme-lovers-21,PH_ph_pizza_supreme_lovers_21_14_large_14_pan,"14""",Pan,27.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.supreme-lovers-21,PH_ph_pizza_supreme_lovers_21_14_large_14_stf,"14""",Stuffed Crust,31.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.supreme-lovers-21,PH_ph_pizza_supreme_lovers_21_14_large_14_thinnc,"14""",Thin-N-Crispy,27.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.supreme-lovers-21,PH_ph_pizza_supreme_lovers_21_6_person_p_pan,Personal,Pan,6.99,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.supreme-lovers-21,PH_ph_pizza_supreme_lovers_21_9_small__9_gluten,"9""",Gluten-Free,14.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.supreme-lovers-21,PH_ph_pizza_supreme_lovers_21_9_small__9_pan,"9""",Pan,13.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.supreme-lovers-21,PH_ph_pizza_supreme_lovers_21_panalici_m_panorm,Medium,Panormous,15.99,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.supreme-lovers-21,PH_ph_pizza_supreme_lovers_21_xl_panor_xl_panorm,X-Large,Panormous,28.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.triple-crown-29,PH_ph_pizza_triple_crown_29_12_medium__12_hc,"12""",Handcrafted,23.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.triple-crown-29,PH_ph_pizza_triple_crown_29_12_medium__12_pan,"12""",Pan,23.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.triple-crown-29,PH_ph_pizza_triple_crown_29_12_medium__12_stf,"12""",Stuffed Crust,26.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.triple-crown-29,PH_ph_pizza_triple_crown_29_12_medium__12_thinnc,"12""",Thin-N-Crispy,23.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.triple-crown-29,PH_ph_pizza_triple_crown_29_14_large_3_14_hc,"14""",Handcrafted,27.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.triple-crown-29,PH_ph_pizza_triple_crown_29_14_large_3_14_pan,"14""",Pan,27.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.triple-crown-29,PH_ph_pizza_triple_crown_29_14_large_3_14_stf,"14""",Stuffed Crust,31.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.triple-crown-29,PH_ph_pizza_triple_crown_29_14_large_3_14_thinnc,"14""",Thin-N-Crispy,27.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.triple-crown-29,PH_ph_pizza_triple_crown_29_6_personal_p_pan,Personal,Pan,5.99,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.triple-crown-29,PH_ph_pizza_triple_crown_29_9_small_1__9_gluten,"9""",Gluten-Free,14.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.triple-crown-29,PH_ph_pizza_triple_crown_29_9_small_1__9_pan,"9""",Pan,13.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.triple-crown-29,PH_ph_pizza_triple_crown_29_panaliciou_m_panorm,Medium,Panormous,14.99,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.triple-crown-29,PH_ph_pizza_triple_crown_29_xl_panormo_xl_panorm,X-Large,Panormous,28.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.veggie-lovers-23,PH_ph_pizza_veggie_lovers_23_12_medium_12_hc,"12""",Handcrafted,23.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.veggie-lovers-23,PH_ph_pizza_veggie_lovers_23_12_medium_12_pan,"12""",Pan,23.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.veggie-lovers-23,PH_ph_pizza_veggie_lovers_23_12_medium_12_stf,"12""",Stuffed Crust,26.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.veggie-lovers-23,PH_ph_pizza_veggie_lovers_23_12_medium_12_thinnc,"12""",Thin-N-Crispy,23.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.veggie-lovers-23,PH_ph_pizza_veggie_lovers_23_14_large__14_hc,"14""",Handcrafted,27.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.veggie-lovers-23,PH_ph_pizza_veggie_lovers_23_14_large__14_pan,"14""",Pan,27.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.veggie-lovers-23,PH_ph_pizza_veggie_lovers_23_14_large__14_stf,"14""",Stuffed Crust,31.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.veggie-lovers-23,PH_ph_pizza_veggie_lovers_23_14_large__14_thinnc,"14""",Thin-N-Crispy,27.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.veggie-lovers-23,PH_ph_pizza_veggie_lovers_23_6_persona_p_pan,Personal,Pan,5.99,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.veggie-lovers-23,PH_ph_pizza_veggie_lovers_23_9_small_1_9_gluten,"9""",Gluten-Free,14.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.veggie-lovers-23,PH_ph_pizza_veggie_lovers_23_9_small_1_9_pan,"9""",Pan,13.49,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.veggie-lovers-23,PH_ph_pizza_veggie_lovers_23_panalicio_m_panorm,Medium,Panormous,14.99,2025-11-15,November,2025
+PH,PH_R10503,Saskatoon,SK,Pizza,pizza.veggie-lovers-23,PH_ph_pizza_veggie_lovers_23_xl_panorm_xl_panorm,X-Large,Panormous,28.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.bacon--pepperoni-2X,PH_ph_pizza_bacon_pepperoni_2x_12_medi_12_hc,"12""",Handcrafted,21.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.bacon--pepperoni-2X,PH_ph_pizza_bacon_pepperoni_2x_12_medi_12_pan,"12""",Pan,21.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.bacon--pepperoni-2X,PH_ph_pizza_bacon_pepperoni_2x_12_medi_12_stf,"12""",Stuffed Crust,24.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.bacon--pepperoni-2X,PH_ph_pizza_bacon_pepperoni_2x_12_medi_12_thinnc,"12""",Thin-N-Crispy,21.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.bacon--pepperoni-2X,PH_ph_pizza_bacon_pepperoni_2x_14_larg_14_hc,"14""",Handcrafted,25.99,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.bacon--pepperoni-2X,PH_ph_pizza_bacon_pepperoni_2x_14_larg_14_pan,"14""",Pan,25.99,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.bacon--pepperoni-2X,PH_ph_pizza_bacon_pepperoni_2x_14_larg_14_stf,"14""",Stuffed Crust,29.99,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.bacon--pepperoni-2X,PH_ph_pizza_bacon_pepperoni_2x_14_larg_14_thinnc,"14""",Thin-N-Crispy,25.99,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.bacon--pepperoni-2X,PH_ph_pizza_bacon_pepperoni_2x_6_perso_p_pan,Personal,Pan,6.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.bacon--pepperoni-2X,PH_ph_pizza_bacon_pepperoni_2x_9_small_9_gluten,"9""",Gluten-Free,14.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.bacon--pepperoni-2X,PH_ph_pizza_bacon_pepperoni_2x_9_small_9_pan,"9""",Pan,13.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.bacon--pineapple-2J,PH_ph_pizza_bacon_pineapple_2j_12_medi_12_hc,"12""",Handcrafted,21.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.bacon--pineapple-2J,PH_ph_pizza_bacon_pineapple_2j_12_medi_12_pan,"12""",Pan,21.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.bacon--pineapple-2J,PH_ph_pizza_bacon_pineapple_2j_12_medi_12_stf,"12""",Stuffed Crust,24.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.bacon--pineapple-2J,PH_ph_pizza_bacon_pineapple_2j_12_medi_12_thinnc,"12""",Thin-N-Crispy,21.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.bacon--pineapple-2J,PH_ph_pizza_bacon_pineapple_2j_14_larg_14_hc,"14""",Handcrafted,25.99,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.bacon--pineapple-2J,PH_ph_pizza_bacon_pineapple_2j_14_larg_14_pan,"14""",Pan,25.99,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.bacon--pineapple-2J,PH_ph_pizza_bacon_pineapple_2j_14_larg_14_stf,"14""",Stuffed Crust,29.99,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.bacon--pineapple-2J,PH_ph_pizza_bacon_pineapple_2j_14_larg_14_thinnc,"14""",Thin-N-Crispy,25.99,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.bacon--pineapple-2J,PH_ph_pizza_bacon_pineapple_2j_6_perso_p_pan,Personal,Pan,6.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.bacon--pineapple-2J,PH_ph_pizza_bacon_pineapple_2j_9_small_9_gluten,"9""",Gluten-Free,14.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.bacon--pineapple-2J,PH_ph_pizza_bacon_pineapple_2j_9_small_9_pan,"9""",Pan,13.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.BBQ-chicken-2R,PH_ph_pizza_bbq_chicken_2r_12_medium_2_12_hc,"12""",Handcrafted,23.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.BBQ-chicken-2R,PH_ph_pizza_bbq_chicken_2r_12_medium_2_12_pan,"12""",Pan,23.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.BBQ-chicken-2R,PH_ph_pizza_bbq_chicken_2r_12_medium_2_12_stf,"12""",Stuffed Crust,26.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.BBQ-chicken-2R,PH_ph_pizza_bbq_chicken_2r_12_medium_2_12_thinnc,"12""",Thin-N-Crispy,23.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.BBQ-chicken-2R,PH_ph_pizza_bbq_chicken_2r_14_large_3__14_hc,"14""",Handcrafted,27.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.BBQ-chicken-2R,PH_ph_pizza_bbq_chicken_2r_14_large_3__14_pan,"14""",Pan,27.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.BBQ-chicken-2R,PH_ph_pizza_bbq_chicken_2r_14_large_3__14_stf,"14""",Stuffed Crust,31.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.BBQ-chicken-2R,PH_ph_pizza_bbq_chicken_2r_14_large_3__14_thinnc,"14""",Thin-N-Crispy,27.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.BBQ-chicken-2R,PH_ph_pizza_bbq_chicken_2r_6_personal__p_pan,Personal,Pan,6.99,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.BBQ-chicken-2R,PH_ph_pizza_bbq_chicken_2r_9_small_1_g_9_gluten,"9""",Gluten-Free,14.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.BBQ-chicken-2R,PH_ph_pizza_bbq_chicken_2r_9_small_1_p_9_pan,"9""",Pan,13.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.BBQ-chicken-2R,PH_ph_pizza_bbq_chicken_2r_panalicious_m_panorm,Medium,Panormous,15.99,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.BBQ-chicken-2R,PH_ph_pizza_bbq_chicken_2r_xl_panormou_xl_panorm,X-Large,Panormous,28.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.canadian-28,PH_ph_pizza_canadian_28_12_medium_2_ha_12_hc,"12""",Handcrafted,23.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.canadian-28,PH_ph_pizza_canadian_28_12_medium_2_pa_12_pan,"12""",Pan,23.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.canadian-28,PH_ph_pizza_canadian_28_12_medium_2_st_12_stf,"12""",Stuffed Crust,26.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.canadian-28,PH_ph_pizza_canadian_28_12_medium_2_th_12_thinnc,"12""",Thin-N-Crispy,23.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.canadian-28,PH_ph_pizza_canadian_28_14_large_3_han_14_hc,"14""",Handcrafted,27.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.canadian-28,PH_ph_pizza_canadian_28_14_large_3_pan_14_pan,"14""",Pan,27.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.canadian-28,PH_ph_pizza_canadian_28_14_large_3_stu_14_stf,"14""",Stuffed Crust,31.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.canadian-28,PH_ph_pizza_canadian_28_14_large_3_thi_14_thinnc,"14""",Thin-N-Crispy,27.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.canadian-28,PH_ph_pizza_canadian_28_6_personal_4_p_p_pan,Personal,Pan,5.99,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.canadian-28,PH_ph_pizza_canadian_28_9_small_1_glut_9_gluten,"9""",Gluten-Free,14.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.canadian-28,PH_ph_pizza_canadian_28_9_small_1_pan_9_pan,"9""",Pan,13.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.canadian-28,PH_ph_pizza_canadian_28_panalicious_2__m_panorm,Medium,Panormous,14.99,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.canadian-28,PH_ph_pizza_canadian_28_xl_panormous_5_xl_panorm,X-Large,Panormous,28.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.cheese-lovers-25,PH_ph_pizza_cheese_lovers_25_12_medium_12_hc,"12""",Handcrafted,23.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.cheese-lovers-25,PH_ph_pizza_cheese_lovers_25_12_medium_12_pan,"12""",Pan,23.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.cheese-lovers-25,PH_ph_pizza_cheese_lovers_25_12_medium_12_stf,"12""",Stuffed Crust,26.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.cheese-lovers-25,PH_ph_pizza_cheese_lovers_25_12_medium_12_thinnc,"12""",Thin-N-Crispy,23.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.cheese-lovers-25,PH_ph_pizza_cheese_lovers_25_14_large__14_hc,"14""",Handcrafted,27.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.cheese-lovers-25,PH_ph_pizza_cheese_lovers_25_14_large__14_pan,"14""",Pan,27.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.cheese-lovers-25,PH_ph_pizza_cheese_lovers_25_14_large__14_stf,"14""",Stuffed Crust,31.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.cheese-lovers-25,PH_ph_pizza_cheese_lovers_25_14_large__14_thinnc,"14""",Thin-N-Crispy,27.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.cheese-lovers-25,PH_ph_pizza_cheese_lovers_25_6_persona_p_pan,Personal,Pan,5.99,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.cheese-lovers-25,PH_ph_pizza_cheese_lovers_25_9_small_1_9_gluten,"9""",Gluten-Free,14.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.cheese-lovers-25,PH_ph_pizza_cheese_lovers_25_9_small_1_9_pan,"9""",Pan,13.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.cheese-lovers-25,PH_ph_pizza_cheese_lovers_25_panalicio_m_panorm,Medium,Panormous,14.99,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.cheese-lovers-25,PH_ph_pizza_cheese_lovers_25_xl_panorm_xl_panorm,X-Large,Panormous,28.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.chicken-bacon-alfredo-melt-22,PH_ph_pizza_chicken_bacon_alfredo_melt_m_defaul,Medium,Default-Crust,9.99,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.chicken-caesar-2C,PH_ph_pizza_chicken_caesar_2c_12_mediu_12_hc,"12""",Handcrafted,23.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.chicken-caesar-2C,PH_ph_pizza_chicken_caesar_2c_12_mediu_12_pan,"12""",Pan,23.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.chicken-caesar-2C,PH_ph_pizza_chicken_caesar_2c_12_mediu_12_stf,"12""",Stuffed Crust,26.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.chicken-caesar-2C,PH_ph_pizza_chicken_caesar_2c_12_mediu_12_thinnc,"12""",Thin-N-Crispy,23.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.chicken-caesar-2C,PH_ph_pizza_chicken_caesar_2c_14_large_14_hc,"14""",Handcrafted,27.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.chicken-caesar-2C,PH_ph_pizza_chicken_caesar_2c_14_large_14_pan,"14""",Pan,27.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.chicken-caesar-2C,PH_ph_pizza_chicken_caesar_2c_14_large_14_stf,"14""",Stuffed Crust,31.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.chicken-caesar-2C,PH_ph_pizza_chicken_caesar_2c_14_large_14_thinnc,"14""",Thin-N-Crispy,27.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.chicken-caesar-2C,PH_ph_pizza_chicken_caesar_2c_6_person_p_pan,Personal,Pan,6.99,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.chicken-caesar-2C,PH_ph_pizza_chicken_caesar_2c_9_small__9_gluten,"9""",Gluten-Free,14.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.chicken-caesar-2C,PH_ph_pizza_chicken_caesar_2c_9_small__9_pan,"9""",Pan,13.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.chicken-caesar-2C,PH_ph_pizza_chicken_caesar_2c_panalici_m_panorm,Medium,Panormous,15.99,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.chicken-caesar-2C,PH_ph_pizza_chicken_caesar_2c_xl_panor_xl_panorm,X-Large,Panormous,28.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.chicken-lovers-26,PH_ph_pizza_chicken_lovers_26_12_mediu_12_hc,"12""",Handcrafted,23.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.chicken-lovers-26,PH_ph_pizza_chicken_lovers_26_12_mediu_12_pan,"12""",Pan,23.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.chicken-lovers-26,PH_ph_pizza_chicken_lovers_26_12_mediu_12_stf,"12""",Stuffed Crust,26.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.chicken-lovers-26,PH_ph_pizza_chicken_lovers_26_12_mediu_12_thinnc,"12""",Thin-N-Crispy,23.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.chicken-lovers-26,PH_ph_pizza_chicken_lovers_26_14_large_14_hc,"14""",Handcrafted,27.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.chicken-lovers-26,PH_ph_pizza_chicken_lovers_26_14_large_14_pan,"14""",Pan,27.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.chicken-lovers-26,PH_ph_pizza_chicken_lovers_26_14_large_14_stf,"14""",Stuffed Crust,31.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.chicken-lovers-26,PH_ph_pizza_chicken_lovers_26_14_large_14_thinnc,"14""",Thin-N-Crispy,27.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.chicken-lovers-26,PH_ph_pizza_chicken_lovers_26_6_person_p_pan,Personal,Pan,6.99,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.chicken-lovers-26,PH_ph_pizza_chicken_lovers_26_9_small__9_gluten,"9""",Gluten-Free,14.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.chicken-lovers-26,PH_ph_pizza_chicken_lovers_26_9_small__9_pan,"9""",Pan,13.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.chicken-lovers-26,PH_ph_pizza_chicken_lovers_26_panalici_m_panorm,Medium,Panormous,15.99,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.chicken-lovers-26,PH_ph_pizza_chicken_lovers_26_xl_panor_xl_panorm,X-Large,Panormous,28.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.classic-pepperoni-2P,PH_ph_pizza_classic_pepperoni_2p_12_me_12_hc,"12""",Handcrafted,16.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.classic-pepperoni-2P,PH_ph_pizza_classic_pepperoni_2p_12_me_12_pan,"12""",Pan,16.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.classic-pepperoni-2P,PH_ph_pizza_classic_pepperoni_2p_12_me_12_stf,"12""",Stuffed Crust,19.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.classic-pepperoni-2P,PH_ph_pizza_classic_pepperoni_2p_12_me_12_thinnc,"12""",Thin-N-Crispy,16.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.classic-pepperoni-2P,PH_ph_pizza_classic_pepperoni_2p_14_la_14_hc,"14""",Handcrafted,19.99,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.classic-pepperoni-2P,PH_ph_pizza_classic_pepperoni_2p_14_la_14_pan,"14""",Pan,19.99,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.classic-pepperoni-2P,PH_ph_pizza_classic_pepperoni_2p_14_la_14_stf,"14""",Stuffed Crust,23.99,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.classic-pepperoni-2P,PH_ph_pizza_classic_pepperoni_2p_14_la_14_thinnc,"14""",Thin-N-Crispy,19.99,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.create-your-own-2H,PH_ph_pizza_create_your_own_2h_12_medi_12_hc,"12""",Handcrafted,16.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.create-your-own-2H,PH_ph_pizza_create_your_own_2h_12_medi_12_pan,"12""",Pan,16.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.create-your-own-2H,PH_ph_pizza_create_your_own_2h_12_medi_12_stf,"12""",Stuffed Crust,19.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.create-your-own-2H,PH_ph_pizza_create_your_own_2h_12_medi_12_thinnc,"12""",Thin-N-Crispy,16.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.create-your-own-2H,PH_ph_pizza_create_your_own_2h_14_larg_14_hc,"14""",Handcrafted,19.99,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.create-your-own-2H,PH_ph_pizza_create_your_own_2h_14_larg_14_pan,"14""",Pan,19.99,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.create-your-own-2H,PH_ph_pizza_create_your_own_2h_14_larg_14_stf,"14""",Stuffed Crust,23.99,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.create-your-own-2H,PH_ph_pizza_create_your_own_2h_14_larg_14_thinnc,"14""",Thin-N-Crispy,19.99,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.create-your-own-2H,PH_ph_pizza_create_your_own_2h_6_perso_p_pan,Personal,Pan,4.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.create-your-own-2H,PH_ph_pizza_create_your_own_2h_9_small_9_gluten,"9""",Gluten-Free,10.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.create-your-own-2H,PH_ph_pizza_create_your_own_2h_9_small_9_pan,"9""",Pan,9.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.create-your-own-2Q,PH_ph_pizza_create_your_own_2q_12_medi_12_hc,"12""",Handcrafted,16.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.create-your-own-2Q,PH_ph_pizza_create_your_own_2q_12_medi_12_pan,"12""",Pan,16.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.create-your-own-2Q,PH_ph_pizza_create_your_own_2q_12_medi_12_stf,"12""",Stuffed Crust,19.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.create-your-own-2Q,PH_ph_pizza_create_your_own_2q_12_medi_12_thinnc,"12""",Thin-N-Crispy,16.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.create-your-own-2Q,PH_ph_pizza_create_your_own_2q_14_larg_14_hc,"14""",Handcrafted,19.99,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.create-your-own-2Q,PH_ph_pizza_create_your_own_2q_14_larg_14_pan,"14""",Pan,19.99,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.create-your-own-2Q,PH_ph_pizza_create_your_own_2q_14_larg_14_stf,"14""",Stuffed Crust,23.99,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.create-your-own-2Q,PH_ph_pizza_create_your_own_2q_14_larg_14_thinnc,"14""",Thin-N-Crispy,19.99,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.create-your-own-2Q,PH_ph_pizza_create_your_own_2q_9_small_9_gluten,"9""",Gluten-Free,10.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.create-your-own-2Q,PH_ph_pizza_create_your_own_2q_9_small_9_pan,"9""",Pan,9.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.create-your-own-2Y,PH_ph_pizza_create_your_own_2y_12_medi_12_hc,"12""",Handcrafted,16.49,2025-11-15,November,2025
+PH,PH_R10523,Weyburn,SK,Pizza,pizza.create-your-own-2Y,PH_ph_pizza_create_your_own_2y_12_medi_12_pan,"12""",Pan,16.49,2025-11-15,November,2025
