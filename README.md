@@ -16,16 +16,16 @@ Python scrapers collect live menu prices, a SQL-style data model in DuckDB stand
 
 ## What’s in the Repo
 
-- `src/dominos_scraper.py`  
+- `source/dominos_scraper.py`  
   Domino’s Canada pizza menu scraper. Scrapes store-level menus, normalizes size/crust, and outputs a unified schema.
 
-- `src/pizza_hut_scraper.py`  
+- `source/pizza_hut_scraper.py`  
   Pizza Hut Canada pizza menu scraper. Uses a throttling-aware “blast” pattern to pull pizzas for all huts across sectors.
 
-- `src/pizza_pizza_scraper.py`  
+- `source/pizza_pizza_scraper.py`  
   Pizza Pizza Canada pizza scraper. Configurator-aware: expands size × crust combinations and applies crust upcharges before writing prices.
 
-- `src/model.py`  
+- `source/model.py`  
   DuckDB model that unions all raw CSVs, builds dimensions + fact (`dim_chain`, `dim_store`, `dim_product`, `dim_date`, `fact_menu_price`), and exports clean CSVs.
 
 - `data/raw/`  
@@ -40,7 +40,7 @@ Python scrapers collect live menu prices, a SQL-style data model in DuckDB stand
 - `dashboard/canada_pizza_pricing_dashboard.pdf`  
   Power BI dashboard export based on the star schema.
 
-- `assets/canada_pizza_pricing_model_schema.png`  
+- `dashboard/canada_pizza_pricing_model_schema.png`  
   Power BI model view screenshot showing the schema (chains → stores → products → dates).
 
 ---
@@ -159,7 +159,7 @@ data/clean/fact/fact_menu_price.csv
 
 You can see the final model as used in Power BI in:
 
-- `assets/canada_pizza_pricing_model_schema.png`
+- `dashboard/canada_pizza_pricing_model_schema.png`
 
 ---
 
